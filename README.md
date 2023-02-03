@@ -1,4 +1,4 @@
-# fake
+# university search app
 
 ## Project setup
 ```
